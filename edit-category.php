@@ -10,6 +10,7 @@
         <script data-search-pseudo-elements defer src="js/all.min.js"></script>
         <script src="js/feather.min.js"></script>
     </head>
+    <h1>yasmin</h1>
     <body class="nav-fixed">
     <nav class="topnav navbar navbar-expand shadow navbar-light bg-white" id="sidenavAccordion">
             <a class="navbar-brand d-none d-sm-block" href="index.php">Admin Panel</a><button class="btn btn-icon btn-transparent-dark order-1 order-lg-0 mr-lg-2" id="sidebarToggle" href="#"><i data-feather="menu"></i></button>
@@ -152,3 +153,4 @@
         <script src="js/scripts.js"></script>
     </body>
 </html>
+
